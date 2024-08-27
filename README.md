@@ -21,6 +21,13 @@ Meet the talented team behind the platform. Each profile includes details about 
 ### 🎨 Styling
 This project leverages **Tailwind CSS** for responsive, utility-first styling, ensuring a modern and visually appealing user interface.
 
+## 🛠️ Tech Stack
+
+- **React:** A JavaScript library for building user interfaces.
+- **Next.js:** A React framework for server-side rendering and static site generation.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- **TypeScript:** A superset of JavaScript that adds static types.
+
 ## 🖼️ Screenshots
 
 Here are some screenshots of the platform:
@@ -60,3 +67,4 @@ Contributions are welcome! If you have any ideas or improvements, please feel fr
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
