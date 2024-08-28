@@ -31,6 +31,7 @@ This project leverages **Tailwind CSS** for responsive, utility-first styling, e
 ## 🖼️ Screenshots
 
 Here are some screenshots of the platform:
+![Screenshot 2024-08-28 192653](https://github.com/user-attachments/assets/64464e16-ca66-484a-9586-cc2964504e0f)
 
 ![Home Page](https://github.com/user-attachments/assets/488c6482-5d10-42ab-963c-9648ad5b1d54)
 ![Blog Listing](https://github.com/user-attachments/assets/9e26f42a-94f7-4e6c-8a84-31bfc095a6b8)
